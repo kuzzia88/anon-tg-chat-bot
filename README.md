@@ -4,6 +4,8 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 
+### Поддержать автора можно [тут](https://dalink.to/kuzzia_)
+
 Бот, для анонимной переписки между людьми
 
 ## 🚀 Быстрый старт
@@ -34,5 +36,6 @@ python main.py
 ```
 
 ## Лицензия
+
 
 Этот проект распространяется под MIT лицензией
